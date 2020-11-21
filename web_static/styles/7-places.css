@@ -1,0 +1,27 @@
+.places {
+    /* display: flex; */
+    max-width: 1000px;
+    margin: 30px auto;
+    /* flex-direction: column; */
+}
+
+.places > h1 {
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+article {
+    /* display: flex; */
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F 1px solid;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.article {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
