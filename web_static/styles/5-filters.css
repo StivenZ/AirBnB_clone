@@ -23,6 +23,10 @@
     border: none;
 }
 
+.filters button:hover {
+    opacity: 80%;
+}
+
 .locations, .amenities {
     display: flex;
     flex-direction: column;
